@@ -31,11 +31,3 @@ Creemos que el conocimiento tiene que ser libre y que la educación tiene que es
 ### [BQ Educa](http://www.bq.com/es/bq-educa-home)
 
 En BQ queremos desmitificar la tecnología, enseñando a los niños que ésta no es magia. Queremos que aprendan cómo funciona y cómo se crea. Para ello hemos desarrollado un ecosistema educativo donde los más pequeños pueden aprender de forma sencilla a crear proyectos tecnológicos y donde padres y profesores pueden encontrar las herramientas necesarias para guiarles en este apasionante proceso.
-
-# Cambios a lo propuesto inicialmente
-
-Nivel I:
-  No vamos a hacer el disfraz: se tarda mucho (uno 40-50 minutos) y el taller quedaría en una manualidad de tijeras
-
-Nivel II:
-  Veremos cómo se programa en el PC, pero  el programa lo haresmos con el tablet
