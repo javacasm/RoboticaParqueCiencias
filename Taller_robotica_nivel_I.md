@@ -1,4 +1,10 @@
+# Robótica open-source: la robótica que te puedes llevar a casa
+
 # Taller de robótica en familia: nivel I 8-10 años
+
+![tecnocole](http://www.tecnocole.com/wp-content/uploads/2015/10/cropped-header_tecnocole.jpg)
+
+![bq](http://d1he77roj9b4by.cloudfront.net/bqcom/static/Pressroom/logos/logoandsymbol/BQlogosymbol200x200.jpg)
 
 * ¿Qué es un robot?
 
