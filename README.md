@@ -1,5 +1,10 @@
 # Taller de Robótica
+
 # Granada, Parque de Ciencias
+
+
+![imagenes/CCbySQ_88x31.png](./imagenes/CCbySQ_88x31.png)
+
 
 5,6 de Marzo de 2015
 
