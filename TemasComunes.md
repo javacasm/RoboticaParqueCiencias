@@ -5,12 +5,15 @@
 ![bq](http://d1he77roj9b4by.cloudfront.net/bqcom/static/Pressroom/logos/logoandsymbol/BQlogosymbol200x200.jpg)
 
 
-Hablaremos de Robótica, programación, impresión 3D, open-source y Arduino
 
+Hablaremos de Robótica, programación, impresión 3D, open-source y Arduino
 
 ## ¿Por qué usar diseños open?
 El movimiento opensource está demostrando el valor de compartir conocimientos, de trabajar en equipo. El conocimiento debe ser libre. Debemos aprender a construir tomando los que otros ya han hecho y adaptándolo.
+
 No podemos cerrar las puertas de lo que hacemos, es nuestro deber exponerlo. Debemos liberar nuestros logros, permitiendo que otros basándose en ellos lleguen aún más alto
+
+![imagenes/CCbySQ_88x31.png](./imagenes/CCbySQ_88x31.png)
 
 ## ¿Por qué usar modelos impresos en 3D?
 Se pueden compartir los diseños que podremos modificar a nuestro gusto y según nuestras necesidades.
