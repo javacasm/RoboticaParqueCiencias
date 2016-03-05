@@ -4,8 +4,6 @@
 
 ![bq](http://d1he77roj9b4by.cloudfront.net/bqcom/static/Pressroom/logos/logoandsymbol/BQlogosymbol200x200.jpg)
 
-
-
 Hablaremos de Robótica, programación, impresión 3D, open-source y Arduino
 
 ## ¿Por qué usar diseños open?
