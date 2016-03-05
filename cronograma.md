@@ -17,6 +17,14 @@
 
 Podemos usar un mismo robot con varios programas
 
+# Montaje
+
+![montaje](./imagenes/evomontaje.png)
+
+![montaje2](./imagenes/Robopad-5.png)
+
+[Montaje paso a paso](https://goo.gl/photos/3UE7yBEtwebcy4287)
+
 # Usando la tablet
 
 Tablet para controlarlo
