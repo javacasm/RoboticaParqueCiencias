@@ -1,8 +1,6 @@
-# ¿qué es un robot?
+# ¿[Qué es un robot](https://create.kahoot.it/?_ga=1.26039358.2056625729.1452556026&deviceId=365ec0cb-25a2-47f5-8862-2a26ec6fe460#survey/bc3cc91c-6a19-4b4b-8dd4-621a4950a337)?
 
-¿Kahoot?
-
-# ¿componentes?
+# ¿Componentes?
 
 ![componentes](./imagenes/EVO-guia-de-montje-10_ff.png)
 
@@ -16,6 +14,7 @@
 1. Programa
 
 ![programa](./imagenes/programa_movimientos.png)
+
 Podemos usar un mismo robot con varios programas
 
 # Usando la tablet
