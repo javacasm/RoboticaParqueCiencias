@@ -19,7 +19,8 @@
 
   ![montaje](./imagenes/evomontaje.png)
 
-  ![montaje2](./imagenes/Robopad-5.png)
+  ![montaje2](./imagenes/EVO-guia-de-montje-10_ff.png)
+
 
 [Montaje paso a paso](https://goo.gl/photos/3UE7yBEtwebcy4287)
 
