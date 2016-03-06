@@ -6,7 +6,7 @@
 ![imagenes/CCbySQ_88x31.png](./imagenes/CCbySQ_88x31.png)
 
 
-5,6 de Marzo de 2015
+5, 6 de Marzo de 2015
 
 Usaremos el [robot evolution](http://www.bq.com/es/printbot-evolution)
 
