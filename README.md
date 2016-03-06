@@ -1,4 +1,4 @@
-# Taller de Robótica
+# Taller de Robótica OpenSource
 
 # Granada, Parque de Ciencias
 
