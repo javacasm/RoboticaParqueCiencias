@@ -2,8 +2,6 @@
 
 ![imagenes/CCbySQ_88x31.png](./imagenes/CCbySQ_88x31.png)
 
-[Robot evolution](http://www.bq.com/es/printbot-evolution)
-
 [Planos de construcción el Evolution](https://github.com/bq/printbots/tree/master/Evolution)
 
 [Aplicación Robopad ++](https://play.google.com/store/apps/details?id=com.bq.robotic.robopad_plusplus)
